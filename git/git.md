@@ -13,4 +13,4 @@
 11. Then merge the branch dev_another_readme into main.
 12. Resolve the conflicts if any.
 
-* Take the screenshot of each commit and email the link of repository along with screenshots.
+* Take the screenshot of each commit and share the link of repository along with screenshots.
